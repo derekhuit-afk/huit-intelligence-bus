@@ -9,7 +9,7 @@ export default class MyDocument extends Document {
           <Main />
           <NextScript />
           {/* Huit.AI Autonomous Sales Engine */}
-          <script src="https://ase.huit.ai/widget.js" data-product="AXIS" defer></script>
+          <script src="https://huit-ase-huitai.vercel.app/widget.js" data-product="AXIS" defer></script>
         </body>
       </Html>
     );
